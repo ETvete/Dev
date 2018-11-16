@@ -1,2 +1,2 @@
 # newdial
-Just som trial
+Just some trial
